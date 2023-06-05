@@ -5,7 +5,7 @@ let MSDhonioldinfo={
 } 
 
 let MSDyounginfo={
-    imgurl="https://static.wixstatic.com/media/a3ab99_84fd4beccd76400984e1bbbbbc0d9a89~mv2.jpg/v1/fill/w_640,h_428,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/a3ab99_84fd4beccd76400984e1bbbbbc0d9a89~mv2.jpg",
+    imgurl:"https://static.wixstatic.com/media/a3ab99_84fd4beccd76400984e1bbbbbc0d9a89~mv2.jpg/v1/fill/w_640,h_428,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/a3ab99_84fd4beccd76400984e1bbbbbc0d9a89~mv2.jpg",
     name: "Mahendra Singh Dhoni",
     description:"Captian of Indian Team"
 }
