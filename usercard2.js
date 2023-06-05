@@ -1,6 +1,6 @@
 let MSDhonioldinfo={
     imgurl:"https://images.indiafantasy.com/wp-content/uploads/20220724002346/i.jpeg",
-    name: "MSD"
+    name: "MSD",
     description:"Cricketer"
 } 
 
