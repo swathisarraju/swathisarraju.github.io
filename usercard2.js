@@ -12,7 +12,7 @@ let MSDyounginfo={
 
 let isMSDold=true;
 let displayobject;
-let flipdata = fuction(){
+let flipdata = function(){
     if (isMSDold==true){
         displayobject=MSDyounginfo;
         isMSDold=false;
