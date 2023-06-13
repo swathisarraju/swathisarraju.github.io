@@ -4,7 +4,11 @@ let MSDhonioldinfo={
     description:"Cricketer"
 } 
 
-let displayobject;
+let displayobject={
+    name:"",
+    imgurl:"",
+    description:""
+};
 let getRandomUser = function(){
     fetch("https://randomuser.me/api")
     .then(response => response.json()) //json is JS obj to print data
