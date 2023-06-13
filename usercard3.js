@@ -19,5 +19,5 @@ let getRandomUser = function(){
         document.getElementById("MSD-img").src=displayobject.imgurl;
         document.getElementById("MSD-name").innerHTML=displayobject.name;
         document.getElementById("MSD-desc").innerHTML=displayobject.description;
-    } 
+    }) 
 }
